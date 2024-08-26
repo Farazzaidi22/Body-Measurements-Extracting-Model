@@ -1,4 +1,4 @@
-````markdown
+````
 # Body Measurements Prediction Using DeepFashion Dataset
 
 This project utilizes a Vision Transformer (ViT) model to predict body measurements such as shoulder length, waist size, and other clothing-related attributes from images. The model is trained on the DeepFashion Multi-Modal dataset and makes use of both image data and human annotations.
