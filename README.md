@@ -1,4 +1,4 @@
-````markdown
+
 # Body Measurements Prediction Using DeepFashion Dataset
 
 This project utilizes a Vision Transformer (ViT) model to predict body measurements such as shoulder length, waist size, and other clothing-related attributes from images. The model is trained on the DeepFashion Multi-Modal dataset and makes use of both image data and human annotations.
@@ -46,6 +46,7 @@ The dataset used in this project is **DeepFashion-MultiModal**, which contains h
 - **PyTorch Version**: `torch==2.0.1+cu117`
 - **TorchVision Version**: `torchvision==0.15.2+cu117`
 
+
 ### Installing Dependencies
 
 1. **Set up a Python virtual environment** (optional but recommended):
@@ -53,7 +54,7 @@ The dataset used in this project is **DeepFashion-MultiModal**, which contains h
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-````
+
 
 2. **Install PyTorch with CUDA Support**:
 
@@ -182,8 +183,5 @@ Here’s an overview of the project files:
 
 - **DeepFashion Dataset**: Special thanks to the authors of the [DeepFashion-MultiModal dataset](https://github.com/yumingj/DeepFashion-MultiModal) for providing the dataset used in this project.
 - **Vision Transformer (ViT)**: This project leverages Hugging Face's `transformers` library for the pre-trained Vision Transformer model.
-
-```
-
 
 ```
