@@ -28,7 +28,7 @@ The dataset used in this project is **DeepFashion-MultiModal**, which contains h
 
 - **Dataset URL**: [DeepFashion Multi-Modal GitHub](https://github.com/yumingj/DeepFashion-MultiModal)
 - **Download the Dataset**:
-  - **Images**: ~5.4 GB, [Download here](https://drive.google.com)
+  - **Images**: ~5.4 GB, [Download here](https://drive.google.com/file/d/1U2PljA7NE57jcSSzPs21ZurdIPXdYZtN/view)
   - **Annotations**: Shape, fabric, and pattern annotations available in TXT and JSON files.
 
 ### Folder Structure of the Dataset
